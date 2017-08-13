@@ -1,6 +1,6 @@
 T+# Draft EOT Token Sale Contract  
 + 
-+***Everything contained in this repository is in draft form and subject to change at an time and provided for information purposes only.  block.one does not guarantee the accuracy of the information contained in this repository and the information is provided “as is” with no representations or warranties, express or implied. This code is owned and copyrighted by block.one and cannot be used by anyone for any purpose.*** 
++***Everything contained in this repository is in draft form and subject to change at an time and provided for information purposes only.  block.one does not guarantee the accuracy of the information contained in this repository and the information is provided “as is” with no representations or warranties, express or implied. This code is open source.
 + 
 +This repository contains the draft source code for the EOT Token Sale. It is being released so that it may be reviewed by the community and deployed and tested by all on the Ethereum test network. 
 + 
@@ -18,9 +18,9 @@ T+# Draft EOT Token Sale Contract
 +    Bob contributed 80% of the total contributions and gets 8 EOT 
 +    Alice contributed 20% of the total contributions and gets 2 EOT 
 + 
-+At the start of the sale, 20% of the total minted tokens (200,000,000 EOT) will become available during a 5 day window.  
++At the start of the sale, 30% of the total minted tokens (300,000,000 EOT) will become available during a 5 day window.  
 + 
-+The remaining 800,000,000 EOT will then be split evenly into 360 one-day windows of 2,222,222.222222 EOT tokens each. 
++The remaining 700,000,000 EOT will then be split evenly into 360 one-day windows of 1,917,808.21978082 EOT tokens each. 
 + 
 +#### 369 days after the creation of this contract the EOT ERC-20 token will be frozen and non transferrable. 
 + 
