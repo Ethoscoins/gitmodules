@@ -72,8 +72,7 @@
 + 
 +    18 
 + 
-+**Symbol:** 
-+ 
++**Symbol:*+ 
 +    EOT 
 + 
 +**Name:** 
@@ -133,4 +132,4 @@
 +    $ seth send -F <ETH_ADDRESS> -G 4600000 <SALE_ADDRESS> "register(bytes)" <PUBLIC_KEY> 
 + 
 +  
-+Copyright © 2017 block.one. All rights reserved. 
++Copyright © 2017 All rights reserved. 
