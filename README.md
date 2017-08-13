@@ -1,4 +1,4 @@
-+# Draft EOT Token Sale Contract  
+T+# Draft EOT Token Sale Contract  
 + 
 +***Everything contained in this repository is in draft form and subject to change at an time and provided for information purposes only.  block.one does not guarantee the accuracy of the information contained in this repository and the information is provided “as is” with no representations or warranties, express or implied. This code is owned and copyrighted by block.one and cannot be used by anyone for any purpose.*** 
 + 
@@ -12,11 +12,11 @@
 + 
 +For example:
 + 
-+    10 EOS are available during the window 
++    10 EOT are available during the window 
 +    Bob contributes 2 ETH 
 +    Alice contributes .5 ETH
-+    Bob contributed 80% of the total contributions and gets 8 EOS 
-+    Alice contributed 20% of the total contributions and gets 2 EOS 
++    Bob contributed 80% of the total contributions and gets 8 EOT 
++    Alice contributed 20% of the total contributions and gets 2 EOT 
 + 
 +At the start of the sale, 20% of the total minted tokens (200,000,000 EOT) will become available during a 5 day window.  
 + 
