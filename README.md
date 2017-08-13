@@ -68,8 +68,7 @@
 + 
 +    0x123 
 + 
-+**Decimals:** 
-+ 
++**Decimals:**+ 
 +    18 
 + 
 +**Symbol:*+ 
@@ -121,15 +120,15 @@
 + 
 +**Buying Tokens:** 
 + 
-+    $ seth send -F <ETH_ADDRESS> -G 4600000 --value=$(seth --to-wei <INVESTMENT> ETH) <SALE_ADDRESS> "buy()" 
++    $ seth send -F <ETH_ADDRESS> -G 3000000 --value=$(seth --to-wei <INVESTMENT> ETH) <SALE_ADDRESS> "buy()" 
 + 
 +**Claiming tokens:** 
 +  
-+    $ seth send -F <ETH_ADDRESS> -G 4600000 <SALE_ADDRESS> "claim(address)" <ETH_ADDRESS> 
++    $ seth send -F <ETH_ADDRESS> -G 3000000 <SALE_ADDRESS> "claim(address)" <ETH_ADDRESS> 
 + 
 +**Registering public key:** 
 +  
-+    $ seth send -F <ETH_ADDRESS> -G 4600000 <SALE_ADDRESS> "register(bytes)" <PUBLIC_KEY> 
++    $ seth send -F <ETH_ADDRESS> -G 3000000 <SALE_ADDRESS> "register(bytes)" <PUBLIC_KEY> 
 + 
 +  
 +Copyright © 2017 All rights reserved. 
