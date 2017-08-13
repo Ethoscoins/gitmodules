@@ -51,8 +51,7 @@
 + 
 +If you are using MyEtherWallet, the instructions to claim are here: 
 + 
-+* For address and ABI / JSON Interface, enter the information above and click Access 
-+* Click ClaimAll from the function dropdown and enter your address in the `who` field 
++* For address and ABI / JSON Interface, enter the information above and click Access +* Click ClaimAll from the function dropdown and enter your address in the `who` field 
 +* Load in your wallet file and unlock it 
 +* Click `Write` 
 +* set `Amount to Send` to `0` and `Gas Limit` to `3000000` 
@@ -92,7 +91,7 @@
 +* Click `Send Ether & Tokens` 
 +* Load in your wallet file and unlock it 
 +* Click `Add Custom Token` on the right side of the page and add the token details from above 
-+* EOS should now be available as an option in the currency dropdown of the transfer screen. You can now transfer it to any address. 
++* EOT should now be available as an option in the currency dropdown of the transfer screen. You can now transfer it to any address. 
 + 
 +## Register Your Public Key 
 + 
