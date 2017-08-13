@@ -6,9 +6,9 @@
 + 
 +## Description 
 + 
-+This draft contract manages the sale of a ERC-20 compatible token ("EOT") on the Ethereum (ETH) blockchain. 
++This draft contract manages the distribution of a ERC-20 compatible token ("EOT") on the Ethereum (ETH) blockchain. 
 + 
-+The EOT Token drop will be conducted on a continuous distribution model for 1 year. 1,000,000,000 (one billion) EOT tokens will be minted. These tokens will be split into different rolling windows of availability. The tokens for a window will be split proportional to all donations made during the window period.  
++The EOT Token drop will be conducted on a continuous distribution model for 1 year. 1,000,000,000 (one billion) EOT tokens will be minted. These tokens will be split into different rolling windows of availability. The tokens for a window will be split proportional to all requests and donations made during the window period.  
 + 
 +For example:
 + 
