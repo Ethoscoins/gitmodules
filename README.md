@@ -16,7 +16,7 @@ At the technical level Ethos Token is a self-minting ERC20-compliant token
 + 
 +At the start of the drop, 70% of the total minted tokens (700,000,000 ETO) will become available during a 90 day window.
 + 
-+The remaining 300,000,000 EOT will then be distributed via air drop. 
++The remaining 300,000,000 ETO will then be distributed via air drop. 
 + 
 +## To Participate 
 + 
